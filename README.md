@@ -7,3 +7,4 @@
 USERNAME username@example.com
 
 username 000@000.com
+20205630@stu.neu.edu.cn
